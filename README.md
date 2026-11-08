@@ -15,14 +15,8 @@ A Pytorch based Deep Reinforcement Learning environment and agent which is desig
 - NumPy
 - Pygame (for visualization)
 
-## Installation & Setup
 
-1. **Clone the repository:**
-   git clone https://github.com/kocourtimik-commits/birdo.git
-   cd birdo
-
-2. **Install dependencies:**
-   pip install -r requirements.txt
-
-3. **Run Training / Simulation:**
-   python main.py
+ **Run Training / Simulation:**
+ Insert in command line (; + ctrl):
+ Install pygame: py -3.11 -m pip install pygame
+ Run: python main.py
