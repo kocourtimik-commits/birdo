@@ -171,7 +171,7 @@ class Pipe:
                 return True
         return False
 
-TOTAL_BIRDS = 50
+TOTAL_BIRDS = 90
 birds = [Bird() for _ in range(TOTAL_BIRDS)]
 saved_birds = []
 generation = 1
@@ -267,3 +267,5 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+
+#ps: my highscore was like 29 on 12th try, and he has now 18 921 on his SIXTH try😭 (I am so proud🤩)
